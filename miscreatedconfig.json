@@ -1,0 +1,28 @@
+[
+    {
+        "DisplayName": "Map",
+        "Category": "Server Settings",
+        "Description": "Map",
+        "Keywords": "Map",
+        "FieldName": "map",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "map",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "islands",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server Settings",
+        "Description": "Server Name",
+        "Keywords": "Server, Name",
+        "FieldName": "sv_servername",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "sv_servername",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "my Server",
+        "EnumValues": {}
+    }
+]
