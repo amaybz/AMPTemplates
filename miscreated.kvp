@@ -1,4 +1,4 @@
-App.AdminMethod=STDIO
+App.AdminMethod=SourceRCON
 App.ApplicationPort1=64090
 App.ApplicationPort2=64091
 App.ApplicationPort3=64092
