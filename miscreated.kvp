@@ -41,4 +41,5 @@ Meta.DisplayName=Miscreated
 Meta.EndpointURIFormat=
 Meta.OS=1
 Meta.URL=
+Limits.SleepMode=False
 Limits.AutoRetryCount=5
