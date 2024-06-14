@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "ConfigFile": "Subsistence Dedicated Server/UDKGame/Config/UDKDedServerSettings.ini",
+        "ConfigType": "ini",
+        "AutoMap": true
+    }
+]
