@@ -16,4 +16,21 @@
         "SkipIfEmpty": false,
         "EnumValues": {}
     }
+    {
+        "DisplayName": "Port",
+        "Category": "Server Settings",
+        "Description": "Network Port",
+        "Keywords": "maingameport",
+        "FieldName": "$MainGamePort",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "port",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "$MainGamePort",
+        "Placeholder": "7777",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
 ]
