@@ -6,5 +6,6 @@
     "origin": "https://github.com/amaybz/AMPTemplates.git",
     "url": "https://github.com/amaybz/AMPTemplates",
     "imagefile": "",
-    "prefix": "AM"
+    "prefix": "AM",
+    "repotype": "AppTemplates"
 }
