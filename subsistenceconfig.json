@@ -15,7 +15,7 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
-    }
+    },
     {
         "DisplayName": "Port",
         "Category": "Server Settings",
