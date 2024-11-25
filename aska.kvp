@@ -67,6 +67,7 @@ Console.AppReadyRegex=^The\s+session\s+is\s+now\s+open!$
 Console.UserJoinRegex=^$
 Console.UserLeaveRegex=^$
 Console.UserChatRegex=^$
+Meta.AppConfigId=4fb7d7f1-4bab-4957-a034-a49a3ba47ca0
 Meta.OS=1
 Meta.ConfigManifest=askaconfig.json
 Meta.MetaConfigManifest=askametaconfig.json
