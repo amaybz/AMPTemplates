@@ -10,13 +10,13 @@ Meta.ContainerPolicy=Supported
 Meta.ContainerPolicyReason=
 Meta.Prerequsites=[]
 Meta.EndpointURIFormat=
-Meta.AppConfigId=855964d8-b581-4f68-84ef-dbdab5e12450
+Meta.AppConfigId=366af141-3304-45ab-a428-b81d2596359d
 App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
 App.DisplayName=VEIN
 App.CommandLineArgs=
-App.WindowsCommandLineArgs=
+App.WindowsCommandLineArgs=-QueryPort {{$QueryPort}} -Port{{$Port}}
 App.CommandLineParameterFormat=-{0}="{1}"
 App.CommandLineParameterDelimiter= 
 App.RapidStartup=false
