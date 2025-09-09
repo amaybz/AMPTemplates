@@ -1,11 +1,10 @@
 {
-    "id": "8200b86b-29d4-417c-80ae-1da65989747c",
+    "id": "50742d3d-f09f-4fc9-bbcd-fa73d5975d06",
     "authors": [
-        "Aiden Mayberry - Made with AMP Config Generator"
+        "AJComputers.com.au - Made with AMP Config Generator"
     ],
-    "origin": "https://github.com/amaybz/AMPTemplates.git",
-    "url": "https://github.com/amaybz/AMPTemplates",
+    "origin": "https://github.com/AJComputers.com.au - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/AJComputers.com.au - Made with AMP Config Generator/AMPTemplates",
     "imagefile": "",
-    "prefix": "AM",
-    "repotype": "AppTemplates"
+    "prefix": "AJComputers.com.au - Made with AMP Config Generator"
 }
