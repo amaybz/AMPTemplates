@@ -1,11 +1,11 @@
 [
     {
-        "ConfigFile": "Game.ini",
+        "ConfigFile": "Saved/Config/WindowsServer/Game.ini",
         "ConfigType": "ini",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Engine.ini",
+        "ConfigFile": "Saved/Config/WindowsServer/Engine.ini",
         "ConfigType": "ini",
         "AutoMap": true
     }

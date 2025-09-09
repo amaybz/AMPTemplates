@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Vein",
+        "Description": "Name of the Server",
+        "Keywords": "server,name",
+        "FieldName": "ServerName",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "ServerName",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "Vain Server AMP",
+        "Placeholder": "Vain Server AMP",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
+]
