@@ -16,7 +16,7 @@ App.HasReadableConsole=true
 App.HasWritableConsole=true
 App.DisplayName=VEIN
 App.CommandLineArgs=
-App.WindowsCommandLineArgs=-QueryPort={{$QueryPort}} -Port={{$Port}} -log
+App.WindowsCommandLineArgs=-QueryPort={{$SteamQueryPort}} -Port={{$MainGamePort}} -log
 App.CommandLineParameterFormat=-{0}="{1}"
 App.CommandLineParameterDelimiter= 
 App.RapidStartup=false
