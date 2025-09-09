@@ -15,7 +15,7 @@ App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
 App.DisplayName=VEIN
-App.CommandLineArgs=-QueryPort=({{$SteamQueryPort}}) -Port=({{$MainGamePort}}) -log
+App.CommandLineArgs=-QueryPort={{$SteamQueryPort}} -Port={{$MainGamePort}} -log
 App.WindowsCommandLineArgs=
 App.CommandLineParameterFormat=-{0} {1}
 App.CommandLineParameterDelimiter= 
