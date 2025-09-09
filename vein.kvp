@@ -64,7 +64,7 @@ Console.SleepDelayMinutes=5
 Console.DozeDelay=2
 Console.AutoRetryCount=5
 Console.SleepStartThresholdSeconds=25
-Console.AppReadyRegex=^SDR\s+RelayNetworkStatus:\s+avail=OK$
+Console.AppReadyRegex=^LogInit:\s+Display:\s+Engine\s+is\s+initialized\.\s+Leaving\s+FEngineLoop::Init\(\)$
 Console.UserJoinRegex=^$
 Console.UserLeaveRegex=^$
 Console.UserChatRegex=^$
