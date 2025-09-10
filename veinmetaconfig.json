@@ -2,11 +2,11 @@
     {
         "ConfigFile": "Vein/Saved/Config/WindowsServer/Game.ini",
         "ConfigType": "ini",
-        "AutoMap": false
+        "AutoMap": true
     },
     {
         "ConfigFile": "Vein/Saved/Config/WindowsServer/Engine.ini",
         "ConfigType": "ini",
-        "AutoMap": false
+        "AutoMap": true
     }
 ]
