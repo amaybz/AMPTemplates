@@ -3,6 +3,7 @@ Meta.Description=VEIN
 Meta.Arch=x86_64
 Meta.Author=AJComputers.com.au - Made with AMP Config Generator
 Meta.URL=https://store.steampowered.com/app/1857950/VEIN/
+Meta.DisplayImageSource=steam:1857950
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
 Meta.DockerRequired=False
