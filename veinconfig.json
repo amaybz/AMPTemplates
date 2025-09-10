@@ -1,31 +1,5 @@
 [
     {
-        "DisplayName": "Game Port",
-        "Category": "network",
-        "Subcategory": "Server:dns:1",
-        "Description": "",
-        "Keywords": "",
-        "FieldName": "$MainGamePort",
-        "InputType": "number",
-        "Hidden": false,
-        "ParamFieldName": "Port",
-        "ExcludeFromImport": true,
-        "EnumValues": {}
-    },
-    {
-        "DisplayName": "Query Port",
-        "Category": "network",
-        "Subcategory": "Server:dns:1",
-        "Description": "",
-        "Keywords": "",
-        "FieldName": "$SteamQueryPort",
-        "InputType": "number",
-        "Hidden": false,
-        "ParamFieldName": "GameServerQueryPort",
-        "ExcludeFromImport": true,
-        "EnumValues": {}
-    },
-    {
         "DisplayName": "Server Name",
         "Category": "Vein",
         "Description": "Name of the Server",
@@ -58,6 +32,22 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
+    },
+    {
+        "DisplayName": "Max Players",
+        "Category": "Vein",
+        "Description": "Max Players",
+        "Keywords": "max,players",
+        "FieldName": "MaxPlayers",
+        "InputType": "number",
+        "IsFlagArgument": false,
+        "ParamFieldName": "MaxPlayers",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "16",
+        "Placeholder": "16",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
     }
-
 ]

@@ -3,24 +3,18 @@
     "ConfigFile": "Vein/Saved/Config/WindowsServer/Game.ini",
     "Subsections": [
       {
-        "Heading": "/Script/Engine.GameSession",
+        "Heading": "/Script/Engine.VeinGameSession",
         "SettingMappings": {
           "ServerName": "ServerName",
           "ServerDescription": "ServerDescription"
         }
       },
       {
-        "Heading": "OnlineSubsystemSteam",
+        "Heading": "/Script/Engine.GameSession",
         "SettingMappings": {
-          "GameServerQueryPort": "$SteamQueryPort"
+          "MaxPlayers": "MaxPlayers"
         }
       },
-      {
-        "Heading": "URL",
-        "SettingMappings": {
-          "Port": "$MainGamePort"
-        }
-      }
     ]
   },
   {
