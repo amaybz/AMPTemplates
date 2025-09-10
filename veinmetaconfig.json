@@ -7,8 +7,8 @@
         "SettingMappings": {
           "ServerName": "ServerName",
           "ServerDescription": "ServerDescription",
-	        "AdminSteamIDs": "AdminSteamIDs",
-	        "+AdminSteamIDs": "+AdminSteamIDs"
+          "AdminSteamIDs": "AdminSteamIDs",
+          "+AdminSteamIDs": "+AdminSteamIDs"
         }
       },
       {
@@ -26,7 +26,13 @@
         "Heading": "ConsoleVariables",
         "SettingMappings": {
           "vein.PvP": "PVP",
-          "vein.AISpawner.HordeMode": "HordeMode"
+          "vein.AISpawner.HordeMode": "HordeMode",
+          "vein.BaseDamage": "BaseDamage",
+          "vein.BuildObjectDecay": "BuildObjectDecay",
+          "vein.Calendar.ElectricalShutoffTimeDays": "BuildObjectDecay",
+          "vein.Calendar.WaterShutoffTimeDays": "WaterShutoffTimeDays",
+          "vein.Time.NightTimeMultiplier": "NightTimeMultiplier",
+          "vein.Zombies.CanClimb": "CanClimb"
         }
       }
     ]
