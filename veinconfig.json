@@ -16,4 +16,21 @@
         "SkipIfEmpty": false,
         "EnumValues": {}
     }
+    {
+        "DisplayName": "Server Description",
+        "Category": "Vein",
+        "Description": "Server Description",
+        "Keywords": "server,description",
+        "FieldName": "ServerDescription",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "ServerDescription",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "AMP Powered Vein Server",
+        "Placeholder": "AMP Powered Vein Server",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    }
 ]
