@@ -29,7 +29,7 @@
           "vein.AISpawner.HordeMode": "HordeMode",
           "vein.BaseDamage": "BaseDamage",
           "vein.BuildObjectDecay": "BuildObjectDecay",
-          "vein.Calendar.ElectricalShutoffTimeDays": "BuildObjectDecay",
+          "vein.Calendar.ElectricalShutoffTimeDays": "ElectricalShutoffTimeDays",
           "vein.Calendar.WaterShutoffTimeDays": "WaterShutoffTimeDays",
           "vein.Time.NightTimeMultiplier": "NightTimeMultiplier",
           "vein.Zombies.CanClimb": "CanClimb"
