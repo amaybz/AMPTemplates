@@ -166,7 +166,7 @@
     },
     {
         "DisplayName": "Power Shutoff",
-        "Category": "Server Settings",
+        "Category": "Vein",
         "Description": "How Maybe Days till power shuts off? Set to -1 to disable",
         "Keywords": "power,shutoff",
         "FieldName": "ElectricalShutoffTimeDays",
