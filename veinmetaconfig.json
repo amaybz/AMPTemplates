@@ -7,8 +7,8 @@
         "SettingMappings": {
           "ServerName": "ServerName",
           "ServerDescription": "ServerDescription",
-	  "AdminSteamIDs": "AdminSteamIDs",
-	  "+AdminSteamIDs": "+AdminSteamIDs"
+	        "AdminSteamIDs": "AdminSteamIDs",
+	        "+AdminSteamIDs": "+AdminSteamIDs"
         }
       },
       {
@@ -16,12 +16,11 @@
         "SettingMappings": {
           "MaxPlayers": "MaxPlayers"
         }
-      },
+      }
     ]
   },
   {
     "ConfigFile": "Vein/Saved/Config/WindowsServer/Engine.ini",
-    "ConfigType": "ini",
     "Subsections": [
       {
         "Heading": "ConsoleVariables",
@@ -31,6 +30,5 @@
         }
       }
     ]
-  },
   }
 ]
