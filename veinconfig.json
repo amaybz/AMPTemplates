@@ -103,5 +103,25 @@
             "0": "False",
             "1": "True"
         }
-    }
+    },
+    {
+        "DisplayName": "PvP",
+        "Category": "Vein",
+        "Description": "PvP",
+        "Keywords": "pvp",
+        "FieldName": "PVP",
+        "InputType": "checkbox",
+        "IsFlagArgument": false,
+        "ParamFieldName": "PVP",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "True",
+        "Placeholder": "True",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {
+            "True": "True",
+            "False": "False"
+        }
+
 ]
