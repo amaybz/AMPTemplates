@@ -12,13 +12,13 @@
       {
         "Heading": "OnlineSubsystemSteam",
         "SettingMappings": {
-          "GameServerQueryPort": "$QueryPort"
+          "GameServerQueryPort": "$SteamQueryPort"
         }
       },
       {
         "Heading": "URL",
         "SettingMappings": {
-          "Port": "$GamePort"
+          "Port": "$MainGamePort"
         }
       }
     ]

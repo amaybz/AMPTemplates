@@ -20,7 +20,7 @@
         "Keywords": "",
         "FieldName": "$SteamQueryPort",
         "InputType": "number",
-        "Hidden": true,
+        "Hidden": false,
         "ParamFieldName": "GameServerQueryPort",
         "ExcludeFromImport": true,
         "EnumValues": {}
