@@ -1,12 +1,24 @@
 [
-    {
-        "ConfigFile": "Vein/Saved/Config/WindowsServer/Game.ini",
-        "ConfigType": "ini",
-        "AutoMap": true
-    },
-    {
-        "ConfigFile": "Vein/Saved/Config/WindowsServer/Engine.ini",
-        "ConfigType": "ini",
-        "AutoMap": true
-    }
+  {
+    "ConfigFile": "Vein/Saved/Config/WindowsServer/Game.ini",
+    "Subsections": [
+      {
+        "Heading": "[/Script/Engine.GameSession]",
+        "SettingMappings": {
+          "ServerName": "ServerName",
+          "ServerDescription": "ServerDescription"
+        }
+      },
+      {
+        "Heading": "[OnlineSubsystemSteam]",
+        "SettingMappings": {
+          "GameServerQueryPort": "SteamQueryPort"
+        }
+      }
+    ]
+  },
+  {
+    "ConfigFile": "Vein/Saved/Config/WindowsServer/Engine.ini",
+    "ConfigType": "ini"
+  }
 ]
