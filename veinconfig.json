@@ -231,8 +231,8 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {
-            "0": "False",
-            "1": "True"
+            "False": "0",
+            "True": "1"
         }
     }
 ]
