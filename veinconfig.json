@@ -56,7 +56,7 @@
         "Description": "Steam ID for Admin access",
         "Keywords": "admin,1",
         "FieldName": "AdminSteamIDs",
-        "InputType": "Textarea",
+        "InputType": "text",
         "IsFlagArgument": false,
         "ParamFieldName": "AdminSteamIDs",
         "IncludeInCommandLine": false,
@@ -184,7 +184,7 @@
     {
         "DisplayName": "Water Shutoff",
         "Category": "Vein",
-        "Description": "Days untill water shuts off: set to -1 to disable",
+        "Description": "Days untill water shuts off? set to -1 to disable",
         "Keywords": "water,shutoff",
         "FieldName": "WaterShutoffTimeDays",
         "InputType": "number",
