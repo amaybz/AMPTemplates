@@ -3,14 +3,14 @@
     "ConfigFile": "Vein/Saved/Config/WindowsServer/Game.ini",
     "Subsections": [
       {
-        "Heading": "[/Script/Engine.GameSession]",
+        "Heading": "/Script/Engine.GameSession",
         "SettingMappings": {
           "ServerName": "ServerName",
           "ServerDescription": "ServerDescription"
         }
       },
       {
-        "Heading": "[OnlineSubsystemSteam]",
+        "Heading": "OnlineSubsystemSteam",
         "SettingMappings": {
           "GameServerQueryPort": "SteamQueryPort"
         }
