@@ -15,7 +15,7 @@ App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
 App.DisplayName=VEIN
-App.CommandLineArgs=-QueryPort={{$SteamQueryPort}} -Port={{$MainGamePort}} -log
+App.CommandLineArgs= -QueryPort={{$SteamQueryPort}} -Port={{$MainGamePort}} -log
 App.WindowsCommandLineArgs=
 App.CommandLineParameterFormat=-{0} {1}
 App.CommandLineParameterDelimiter= 
@@ -32,7 +32,7 @@ App.AdminPortRef=RemoteAdminPort
 App.UniversalSleepApplicationUDPPortRef=MainGamePort
 App.PrimaryApplicationPortRef=GamePort1
 App.UniversalSleepSteamQueryPortRef=SteamQueryPort
-App.MaxUsers=8
+App.MaxUsers=16
 App.UseRandomAdminPassword=True
 App.RemoteAdminPassword=
 App.AdminLoginTransform=None
