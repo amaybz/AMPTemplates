@@ -49,5 +49,39 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
+    },
+    {
+        "DisplayName": "Admin 1",
+        "Category": "Vein",
+        "Description": "Steam ID for Admin access",
+        "Keywords": "admin,1",
+        "FieldName": "AdminSteamIDs",
+        "InputType": "Textarea",
+        "IsFlagArgument": false,
+        "ParamFieldName": "AdminSteamIDs",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Admin 2",
+        "Category": "Vein",
+        "Description": "Steam ID for Admin access",
+        "Keywords": "admin,2",
+        "FieldName": "+AdminSteamIDs",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "+AdminSteamIDs",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {}
     }
 ]

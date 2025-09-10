@@ -3,10 +3,12 @@
     "ConfigFile": "Vein/Saved/Config/WindowsServer/Game.ini",
     "Subsections": [
       {
-        "Heading": "/Script/Engine.VeinGameSession",
+        "Heading": "/Script/Vein.VeinGameSession",
         "SettingMappings": {
           "ServerName": "ServerName",
-          "ServerDescription": "ServerDescription"
+          "ServerDescription": "ServerDescription",
+	  "AdminSteamIDs": "AdminSteamIDs",
+	  "+AdminSteamIDs": "+AdminSteamIDs",
         }
       },
       {
