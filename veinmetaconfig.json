@@ -8,7 +8,7 @@
           "ServerName": "ServerName",
           "ServerDescription": "ServerDescription",
 	  "AdminSteamIDs": "AdminSteamIDs",
-	  "+AdminSteamIDs": "+AdminSteamIDs",
+	  "+AdminSteamIDs": "+AdminSteamIDs"
         }
       },
       {
@@ -21,6 +21,16 @@
   },
   {
     "ConfigFile": "Vein/Saved/Config/WindowsServer/Engine.ini",
-    "ConfigType": "ini"
+    "ConfigType": "ini",
+    "Subsections": [
+      {
+        "Heading": "ConsoleVariables",
+        "SettingMappings": {
+          "vein.PvP": "PVP",
+          "vein.AISpawner.HordeMode": "HordeMode"
+        }
+      }
+    ]
+  },
   }
 ]

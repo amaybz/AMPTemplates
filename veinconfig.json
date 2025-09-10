@@ -56,7 +56,7 @@
         "Description": "Steam ID for Admin access",
         "Keywords": "admin,1",
         "FieldName": "AdminSteamIDs",
-        "InputType": "Textarea",
+        "InputType": "text",
         "IsFlagArgument": false,
         "ParamFieldName": "AdminSteamIDs",
         "IncludeInCommandLine": false,
@@ -83,5 +83,25 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {}
+    },
+    {
+        "DisplayName": "Hordes",
+        "Category": "Vein",
+        "Description": "",
+        "Keywords": "hordes",
+        "FieldName": "HordeMode",
+        "InputType": "checkbox",
+        "IsFlagArgument": false,
+        "ParamFieldName": "HordeMode",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "1",
+        "Placeholder": "1",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {
+            "0": "False",
+            "1": "True"
+        }
     }
 ]
